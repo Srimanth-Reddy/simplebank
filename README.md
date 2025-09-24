@@ -1,1 +1,1 @@
-# go-project-one
+# Simple Bank
